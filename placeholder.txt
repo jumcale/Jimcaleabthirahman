@@ -1,0 +1,9 @@
+This directory contains placeholder images for the portfolio.
+You can replace these with your actual project screenshots and profile photo.
+
+To add your images:
+1. Upload your profile photo as 'profile.jpg'
+2. Add project screenshots (mltrader.jpg, baxnaano.jpg, etc.)
+3. Or use image URLs in the admin dashboard
+
+For now, the portfolio will show default icons for projects without images.
